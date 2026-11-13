@@ -1,0 +1,27 @@
+Device: cuda
+Epoch: 1| Training Loss: 0.6513442759928496| Validation Loss: 0.6061527729034424: Time elapsed: 257.31933546066284| Training Accuracy: 0.6576022350269816| Validation Accuracy: 0.7573586304982504
+Epoch: 2| Training Loss: 0.5299824031366818| Validation Loss: 0.4727746943632762: Time elapsed: 430.7149004936218| Training Accuracy: 0.7995210877363232| Validation Accuracy: 0.820983640352885
+Epoch: 3| Training Loss: 0.42691997730213666| Validation Loss: 0.3898399233818054: Time elapsed: 604.3357965946198| Training Accuracy: 0.8342836663342904| Validation Accuracy: 0.8475300590197246
+Epoch: 4| Training Loss: 0.36359015625456104| Validation Loss: 0.34014334877332053: Time elapsed: 779.1225464344025| Training Accuracy: 0.856114407380422| Validation Accuracy: 0.8649559140205383
+Epoch: 5| Training Loss: 0.32465224680693255| Validation Loss: 0.30787845452626544: Time elapsed: 953.0020310878754| Training Accuracy: 0.8704290942869325| Validation Accuracy: 0.8782512823740641
+Epoch: 6| Training Loss: 0.2987189076948857| Validation Loss: 0.28709667722384136: Time elapsed: 1127.0720357894897| Training Accuracy: 0.879968808181044| Validation Accuracy: 0.8854922612508138
+Epoch: 7| Training Loss: 0.2812877608382184| Validation Loss: 0.27490339477856957: Time elapsed: 1301.1758086681366| Training Accuracy: 0.8875450129094331| Validation Accuracy: 0.890587838490804
+Epoch: 8| Training Loss: 0.2715389275032541| Validation Loss: 0.26557416915893556: Time elapsed: 1474.9448137283325| Training Accuracy: 0.891584871471792| Validation Accuracy: 0.8957888166109721
+Epoch: 9| Training Loss: 0.2642511388529902| Validation Loss: 0.26027419567108157: Time elapsed: 1649.2836589813232| Training Accuracy: 0.8952695183132006| Validation Accuracy: 0.8970702131589253
+Epoch: 10| Training Loss: 0.25874896714652795| Validation Loss: 0.2552079319953918: Time elapsed: 1823.512586593628| Training Accuracy: 0.8980097546093706| Validation Accuracy: 0.8996847709019978
+Epoch: 11| Training Loss: 0.25440563239913055| Validation Loss: 0.2496204376220703: Time elapsed: 1997.8811275959015| Training Accuracy: 0.899498442808787| Validation Accuracy: 0.9023044308026632
+Epoch: 12| Training Loss: 0.2511731543834659| Validation Loss: 0.2490131358305613: Time elapsed: 2171.5651829242706| Training Accuracy: 0.9012652704681176| Validation Accuracy: 0.9027462363243103
+Epoch: 13| Training Loss: 0.2487071618653726| Validation Loss: 0.2462770958741506: Time elapsed: 2345.8204448223114| Training Accuracy: 0.9022281411765278| Validation Accuracy: 0.9032372633616129
+Epoch: 14| Training Loss: 0.24718741446301556| Validation Loss: 0.24503685037295023: Time elapsed: 2519.422610759735| Training Accuracy: 0.903067095556121| Validation Accuracy: 0.9040811657905579
+Epoch: 15| Training Loss: 0.24515331979247107| Validation Loss: 0.2432793140411377: Time elapsed: 2692.495318174362| Training Accuracy: 0.9043197199918221| Validation Accuracy: 0.9054956118265788
+Epoch: 16| Training Loss: 0.24423241118590036| Validation Loss: 0.24226034780343372: Time elapsed: 2866.0047063827515| Training Accuracy: 0.9048512301583221| Validation Accuracy: 0.906313435236613
+Epoch: 17| Training Loss: 0.24288113803967185| Validation Loss: 0.24173589944839477: Time elapsed: 3039.1173408031464| Training Accuracy: 0.9051202155541682| Validation Accuracy: 0.9056722958882649
+Epoch: 18| Training Loss: 0.24299390354882117| Validation Loss: 0.23997747600078584: Time elapsed: 3212.6006846427917| Training Accuracy: 0.905310204927472| Validation Accuracy: 0.9066220919291178
+Epoch: 19| Training Loss: 0.24174157497675522| Validation Loss: 0.24071049094200134: Time elapsed: 3386.093163728714| Training Accuracy: 0.9057701031366984| Validation Accuracy: 0.9070691943168641
+Epoch: 20| Training Loss: 0.2411599033984585| Validation Loss: 0.2402625113725662: Time elapsed: 3559.211586713791| Training Accuracy: 0.9061603131501571| Validation Accuracy: 0.906551202138265
+Epoch: 21| Training Loss: 0.24080965765144513| Validation Loss: 0.23834099074204762: Time elapsed: 3732.398067712784| Training Accuracy: 0.906462758347608| Validation Accuracy: 0.9077962199846904
+Epoch: 22| Training Loss: 0.23989178434662198| Validation Loss: 0.2408822347720464: Time elapsed: 3915.9904680252075| Training Accuracy: 0.9070207277933756| Validation Accuracy: 0.9062846104303995
+Epoch: 23| Training Loss: 0.23950337046298428| Validation Loss: 0.23881312608718872: Time elapsed: 4094.782965898514| Training Accuracy: 0.9075035478757776| Validation Accuracy: 0.9075276652971903
+Epoch: 24| Training Loss: 0.24065686567969943| Validation Loss: 0.23916670282681782: Time elapsed: 4332.221531867981| Training Accuracy: 0.9062546154727107| Validation Accuracy: 0.9073593179384868
+Epoch: 25| Training Loss: 0.2398347534995148| Validation Loss: 0.23963177700837454: Time elapsed: 4568.640291452408| Training Accuracy: 0.906609827193661| Validation Accuracy: 0.9073636333147684
+Time Taken for training: 4568.75692152977

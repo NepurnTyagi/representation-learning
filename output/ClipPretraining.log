@@ -1,0 +1,202 @@
+EPOCHS:100| BATCH_SIZE: 256| DROPOUT: 0.1
+steps(per epoch): 391
+Epoch: 1| Training Loss: 4.112314086082654| Validation Loss: 2.5843083552825146: Time elapsed: 618.970267534256
+steps(per epoch): 391
+Epoch: 2| Training Loss: 1.0311636179685593| Validation Loss: 1.271962847465124: Time elapsed: 1034.5163116455078
+steps(per epoch): 391
+Epoch: 3| Training Loss: 0.4389953837180749| Validation Loss: 2.6376300224891076: Time elapsed: 1449.358197927475
+steps(per epoch): 391
+Epoch: 4| Training Loss: 0.31782084172352765| Validation Loss: 1.3780390818913777: Time elapsed: 1864.3049817085266
+steps(per epoch): 391
+Epoch: 5| Training Loss: 0.2270667339555728| Validation Loss: 0.5868072960621271: Time elapsed: 2278.313982486725
+steps(per epoch): 391
+Epoch: 6| Training Loss: 0.16003829350647253| Validation Loss: 0.25132544529743683: Time elapsed: 2692.661741733551
+steps(per epoch): 391
+Epoch: 7| Training Loss: 0.09386826336192779| Validation Loss: 1.623385407985785: Time elapsed: 3107.8788661956787
+steps(per epoch): 391
+Epoch: 8| Training Loss: 0.08802243727139937| Validation Loss: 0.10680066029994915: Time elapsed: 3521.712416410446
+steps(per epoch): 391
+Epoch: 9| Training Loss: 0.051258728973185404| Validation Loss: 0.04310210187656757: Time elapsed: 3939.2595121860504
+steps(per epoch): 391
+Epoch: 10| Training Loss: 0.039269019758854155| Validation Loss: 0.03474918609628311: Time elapsed: 4354.570513486862
+steps(per epoch): 391
+Epoch: 11| Training Loss: 0.029575221328876723| Validation Loss: 0.12911405987464464: Time elapsed: 4775.747333288193
+steps(per epoch): 391
+Epoch: 12| Training Loss: 0.026243632086194478| Validation Loss: 0.05227511786879637: Time elapsed: 5190.776790857315
+steps(per epoch): 391
+Epoch: 13| Training Loss: 0.022256387813160052| Validation Loss: 0.04911214170547632: Time elapsed: 5605.35799241066
+steps(per epoch): 391
+Epoch: 14| Training Loss: 0.020084723205759356| Validation Loss: 0.03559732991151321: Time elapsed: 6020.81494808197
+steps(per epoch): 391
+Epoch: 15| Training Loss: 0.017516958452044772| Validation Loss: 0.014036223280410737: Time elapsed: 6435.278712749481
+steps(per epoch): 391
+Epoch: 16| Training Loss: 0.016152946892767573| Validation Loss: 0.01755214963729183: Time elapsed: 6849.760627031326
+steps(per epoch): 391
+Epoch: 17| Training Loss: 0.015278441073874442| Validation Loss: 0.026732434805196065: Time elapsed: 7264.146169185638
+steps(per epoch): 391
+Epoch: 18| Training Loss: 0.014354422136257665| Validation Loss: 0.011236110493206443: Time elapsed: 7678.541523218155
+steps(per epoch): 391
+Epoch: 19| Training Loss: 0.012935393310796756| Validation Loss: 0.011027710918241587: Time elapsed: 8093.7377688884735
+steps(per epoch): 391
+Epoch: 20| Training Loss: 0.01260814647255943| Validation Loss: 0.013018333090421481: Time elapsed: 8512.097110748291
+steps(per epoch): 391
+Epoch: 21| Training Loss: 0.012086866283490776| Validation Loss: 0.008750196077669851: Time elapsed: 8931.869285106659
+steps(per epoch): 391
+Epoch: 22| Training Loss: 0.01189662146811875| Validation Loss: 0.014935353633541709: Time elapsed: 9348.262348890305
+steps(per epoch): 391
+Epoch: 23| Training Loss: 0.010896781960036605| Validation Loss: 0.007834028052643705: Time elapsed: 9762.613840818405
+steps(per epoch): 391
+Epoch: 24| Training Loss: 0.010650476163629298| Validation Loss: 0.013590061404288579: Time elapsed: 10177.714919090271
+steps(per epoch): 391
+Epoch: 25| Training Loss: 0.00917081399820745| Validation Loss: 0.012273541341225306: Time elapsed: 10592.356400728226
+steps(per epoch): 391
+Epoch: 26| Training Loss: 0.01025907289272604| Validation Loss: 0.006691286206030502: Time elapsed: 11007.619668722153
+steps(per epoch): 391
+Epoch: 27| Training Loss: 0.00849218182400084| Validation Loss: 0.009309852698770089: Time elapsed: 11421.752677679062
+steps(per epoch): 391
+Epoch: 28| Training Loss: 0.008701819305469354| Validation Loss: 0.008554514091557417: Time elapsed: 11838.281294584274
+steps(per epoch): 391
+Epoch: 29| Training Loss: 0.008974145204634763| Validation Loss: 0.011989237257064534: Time elapsed: 12253.637614250183
+steps(per epoch): 391
+Epoch: 30| Training Loss: 0.008804704034432339| Validation Loss: 0.017154275660570234: Time elapsed: 12677.2569937706
+steps(per epoch): 391
+Epoch: 31| Training Loss: 0.008047186396269796| Validation Loss: 0.008969666293034187: Time elapsed: 13092.084354877472
+steps(per epoch): 391
+Epoch: 32| Training Loss: 0.008026270841499074| Validation Loss: 0.00543111470193626: Time elapsed: 13506.460763692856
+steps(per epoch): 391
+Epoch: 33| Training Loss: 0.0074527905652454745| Validation Loss: 0.008208411071115198: Time elapsed: 13921.245152950287
+steps(per epoch): 391
+Epoch: 34| Training Loss: 0.0068165375607070295| Validation Loss: 0.005536837530179093: Time elapsed: 14336.892719507217
+steps(per epoch): 391
+Epoch: 35| Training Loss: 0.0068053436413323745| Validation Loss: 0.004220694685593629: Time elapsed: 14751.210721969604
+steps(per epoch): 391
+Epoch: 36| Training Loss: 0.006933907023332535| Validation Loss: 0.005127688774313682: Time elapsed: 15165.448130130768
+steps(per epoch): 391
+Epoch: 37| Training Loss: 0.006238227720426109| Validation Loss: 0.005121196214205179: Time elapsed: 15579.695293188095
+steps(per epoch): 391
+Epoch: 38| Training Loss: 0.006340388260865346| Validation Loss: 0.005520321028784682: Time elapsed: 15996.215739250183
+steps(per epoch): 391
+Epoch: 39| Training Loss: 0.006493735943550769| Validation Loss: 0.006603886421101215: Time elapsed: 16413.992888212204
+steps(per epoch): 391
+Epoch: 40| Training Loss: 0.005867422457697849| Validation Loss: 0.004825847677122324: Time elapsed: 16833.484748363495
+steps(per epoch): 391
+Epoch: 41| Training Loss: 0.0058207181324877845| Validation Loss: 0.005224399179076919: Time elapsed: 17249.349603414536
+steps(per epoch): 391
+Epoch: 42| Training Loss: 0.005419025137029493| Validation Loss: 0.0038239166591292582: Time elapsed: 17664.5036175251
+steps(per epoch): 391
+Epoch: 43| Training Loss: 0.0055896278414785715| Validation Loss: 0.005159096023700654: Time elapsed: 18079.345603227615
+steps(per epoch): 391
+Epoch: 44| Training Loss: 0.005049812239266407| Validation Loss: 0.005235712164087603: Time elapsed: 18493.060307741165
+steps(per epoch): 391
+Epoch: 45| Training Loss: 0.005420478639112284| Validation Loss: 0.003819287749371515: Time elapsed: 18907.30357813835
+steps(per epoch): 391
+Epoch: 46| Training Loss: 0.004995962162427485| Validation Loss: 0.004794571402434928: Time elapsed: 19321.909085035324
+steps(per epoch): 391
+Epoch: 47| Training Loss: 0.004537139807227784| Validation Loss: 0.003465319238901616: Time elapsed: 19736.410195350647
+steps(per epoch): 391
+Epoch: 48| Training Loss: 0.004537774408340621| Validation Loss: 0.003309479492973202: Time elapsed: 20155.37981915474
+steps(per epoch): 391
+Epoch: 49| Training Loss: 0.004409186929562846| Validation Loss: 0.004031712353492203: Time elapsed: 20570.588531970978
+steps(per epoch): 391
+Epoch: 50| Training Loss: 0.00464477969702178| Validation Loss: 0.003794747871907953: Time elapsed: 20990.23936700821
+steps(per epoch): 391
+Epoch: 51| Training Loss: 0.004271810295848319| Validation Loss: 0.003335723014643941: Time elapsed: 21404.47019982338
+steps(per epoch): 391
+Epoch: 52| Training Loss: 0.004405313437485184| Validation Loss: 0.004396425395941314: Time elapsed: 21819.524705171585
+steps(per epoch): 391
+Epoch: 53| Training Loss: 0.00412874145706435| Validation Loss: 0.002185620522001185: Time elapsed: 22235.883833646774
+steps(per epoch): 391
+Epoch: 54| Training Loss: 0.0042610393052783385| Validation Loss: 0.002624856718541242: Time elapsed: 22650.619862556458
+steps(per epoch): 391
+Epoch: 55| Training Loss: 0.004287194320036528| Validation Loss: 0.00312332953296554: Time elapsed: 23065.824423789978
+steps(per epoch): 391
+Epoch: 56| Training Loss: 0.003435504769302684| Validation Loss: 0.002869196774554439: Time elapsed: 23482.053516626358
+steps(per epoch): 391
+Epoch: 57| Training Loss: 0.003505606998134261| Validation Loss: 0.0025305998054906153: Time elapsed: 23898.369119644165
+steps(per epoch): 391
+Epoch: 58| Training Loss: 0.004008371711825021| Validation Loss: 0.0028283393782121725: Time elapsed: 24316.099999666214
+steps(per epoch): 391
+Epoch: 59| Training Loss: 0.0031639622607214663| Validation Loss: 0.0020067284076970117: Time elapsed: 24734.89118552208
+steps(per epoch): 391
+Epoch: 60| Training Loss: 0.0033174068962137262| Validation Loss: 0.002301184524698422: Time elapsed: 25149.931116342545
+steps(per epoch): 391
+Epoch: 61| Training Loss: 0.002901026496039823| Validation Loss: 0.0023042256014797692: Time elapsed: 25564.892845392227
+steps(per epoch): 391
+Epoch: 62| Training Loss: 0.0031306534975719374| Validation Loss: 0.0018595794114308097: Time elapsed: 25979.451312303543
+steps(per epoch): 391
+Epoch: 63| Training Loss: 0.0028723783616348953| Validation Loss: 0.002823340373698813: Time elapsed: 26395.529307603836
+steps(per epoch): 391
+Epoch: 64| Training Loss: 0.002891650449899503| Validation Loss: 0.0016722906577156093: Time elapsed: 26810.21915102005
+steps(per epoch): 391
+Epoch: 65| Training Loss: 0.002660223414102056| Validation Loss: 0.0031049561978598386: Time elapsed: 27224.940569400787
+steps(per epoch): 391
+Epoch: 66| Training Loss: 0.002423131376828025| Validation Loss: 0.0023426648989791432: Time elapsed: 27639.43975663185
+steps(per epoch): 391
+Epoch: 67| Training Loss: 0.0022043132726722457| Validation Loss: 0.0025532858667131034: Time elapsed: 28058.18585252762
+steps(per epoch): 391
+Epoch: 68| Training Loss: 0.0025650423864135518| Validation Loss: 0.002044891233545525: Time elapsed: 28474.19569182396
+steps(per epoch): 391
+Epoch: 69| Training Loss: 0.002140383075199609| Validation Loss: 0.0012540299671505077: Time elapsed: 28893.436076402664
+steps(per epoch): 391
+Epoch: 70| Training Loss: 0.0020297959953612193| Validation Loss: 0.0019622997359151784: Time elapsed: 29310.07900738716
+steps(per epoch): 391
+Epoch: 71| Training Loss: 0.001976391571336605| Validation Loss: 0.0013238980292300812: Time elapsed: 29724.14556002617
+steps(per epoch): 391
+Epoch: 72| Training Loss: 0.001904097367738499| Validation Loss: 0.001465286087179079: Time elapsed: 30141.458363056183
+steps(per epoch): 391
+Epoch: 73| Training Loss: 0.0017474173185455118| Validation Loss: 0.0019040189622617804: Time elapsed: 30556.496698141098
+steps(per epoch): 391
+Epoch: 74| Training Loss: 0.0017726958183070214| Validation Loss: 0.0018697983789771127: Time elapsed: 30971.26258277893
+steps(per epoch): 391
+Epoch: 75| Training Loss: 0.001679145799416568| Validation Loss: 0.002042806639040534: Time elapsed: 31385.936916828156
+steps(per epoch): 391
+Epoch: 76| Training Loss: 0.0015287590090548083| Validation Loss: 0.0015005679257834952: Time elapsed: 31801.302126646042
+steps(per epoch): 391
+Epoch: 77| Training Loss: 0.0015362824866222069| Validation Loss: 0.0015527184585106368: Time elapsed: 32217.262854099274
+steps(per epoch): 391
+Epoch: 78| Training Loss: 0.0015029695281368616| Validation Loss: 0.0018538169470281364: Time elapsed: 32637.93323111534
+steps(per epoch): 391
+Epoch: 79| Training Loss: 0.0012510196460938552| Validation Loss: 0.0013381125985082083: Time elapsed: 33054.24294042587
+steps(per epoch): 391
+Epoch: 80| Training Loss: 0.0012536752460455785| Validation Loss: 0.0013341007704114488: Time elapsed: 33471.091541051865
+steps(per epoch): 391
+Epoch: 81| Training Loss: 0.001183245688958451| Validation Loss: 0.0013032899224550093: Time elapsed: 33886.49423670769
+steps(per epoch): 391
+Epoch: 82| Training Loss: 0.0011987448909190463| Validation Loss: 0.0016944352684778352: Time elapsed: 34300.878283023834
+steps(per epoch): 391
+Epoch: 83| Training Loss: 0.0011800184707587901| Validation Loss: 0.0012727344251638546: Time elapsed: 34715.448097229004
+steps(per epoch): 391
+Epoch: 84| Training Loss: 0.0010435297953219373| Validation Loss: 0.0009093031136823507: Time elapsed: 35130.411704301834
+steps(per epoch): 391
+Epoch: 85| Training Loss: 0.0011369572132911671| Validation Loss: 0.0008480628011733269: Time elapsed: 35545.2608628273
+steps(per epoch): 391
+Epoch: 86| Training Loss: 0.0009755141353077935| Validation Loss: 0.0008892100033848785: Time elapsed: 35962.09521627426
+steps(per epoch): 391
+Epoch: 87| Training Loss: 0.0009229120388669962| Validation Loss: 0.0016424752525964347: Time elapsed: 36375.95111703873
+steps(per epoch): 391
+Epoch: 88| Training Loss: 0.000956988938770127| Validation Loss: 0.0008277185371321721: Time elapsed: 36792.26718020439
+steps(per epoch): 391
+Epoch: 89| Training Loss: 0.0006594922351117323| Validation Loss: 0.0007912275483622813: Time elapsed: 37206.569954156876
+steps(per epoch): 391
+Epoch: 90| Training Loss: 0.0008627005172923255| Validation Loss: 0.0010567008566562063: Time elapsed: 37621.15404701233
+steps(per epoch): 391
+Epoch: 91| Training Loss: 0.0008671918923844202| Validation Loss: 0.0010229300341728586: Time elapsed: 38036.40223002434
+steps(per epoch): 391
+Epoch: 92| Training Loss: 0.0008934266110046361| Validation Loss: 0.0011493177933003514: Time elapsed: 38453.14937925339
+steps(per epoch): 391
+Epoch: 93| Training Loss: 0.0007163424548451029| Validation Loss: 0.0005257052468014314: Time elapsed: 38868.36001586914
+steps(per epoch): 391
+Epoch: 94| Training Loss: 0.0008040192424418936| Validation Loss: 0.0006907909277614612: Time elapsed: 39283.96702218056
+steps(per epoch): 391
+Epoch: 95| Training Loss: 0.0007192169054924773| Validation Loss: 0.00093886522937772: Time elapsed: 39701.226136446
+steps(per epoch): 391
+Epoch: 96| Training Loss: 0.0007704207298817122| Validation Loss: 0.0008411261154926764: Time elapsed: 40116.60081219673
+steps(per epoch): 391
+Epoch: 97| Training Loss: 0.0007367237191689268| Validation Loss: 0.0010073990924865939: Time elapsed: 40538.26954674721
+steps(per epoch): 391
+Epoch: 98| Training Loss: 0.0006955186792928986| Validation Loss: 0.0010341057429916244: Time elapsed: 40953.47854399681
+steps(per epoch): 391
+Epoch: 99| Training Loss: 0.0007725092814115879| Validation Loss: 0.001117928841547557: Time elapsed: 41368.22378158569
+steps(per epoch): 391
+Epoch: 100| Training Loss: 0.0006975339058347648| Validation Loss: 0.000783178326319336: Time elapsed: 41783.96617650986
+Time Taken for training: 41784.634038448334
