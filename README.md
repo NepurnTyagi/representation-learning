@@ -26,3 +26,9 @@ The trained CLIP and DINO model checkpoints, including the linear probing models
 [Download Model Checkpoints](https://huggingface.co/NepurnTyagi/representation-learning)
 
 Access to the repository is restricted; request access on Hugging Face to download the checkpoints.
+
+### Dataset Observations
+
+During the assignment, some duplicated samples were identified in the dataset. These samples contained identical images but different captions, with one or both captions differing between the duplicates.
+
+The identified duplicates are documented in [`duplicated.csv`](./duplicated.csv), included in this repository for reference.
