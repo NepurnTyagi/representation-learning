@@ -1,6 +1,4 @@
-## Course Information
-
-This project was completed as **Assignment 2, Part 1 (A2, Part 1)** of **COL775: Deep Learning**, offered at **IIT Delhi** during **Semester 2, 2025–26**, under the guidance of **Prof. Parag Singla**.
+This project was completed as **Assignment 2, Part 1 (A2, Part 1)** of **COL775: Deep Learning**, offered at **IIT Delhi** during **Semester 2, 2025–26**, under **Prof. Parag Singla**. The original [assignment PDF](https://www.cse.iitd.ac.in/~parags/teaching/col775/assignments/ass2/col775_a2.pdf) is available here.
 
 ## Dataset
 
